@@ -1,0 +1,10 @@
+bin\Debug\Administracion de controles.exe
+bin\Debug\Administracion de controles.pdb
+bin\Debug\Administracion de controles.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Administracion_de_controles.Form1.resources
+obj\Debug\Administracion_de_controles.Resources.resources
+obj\Debug\Administracion de controles.vbproj.GenerateResource.Cache
+obj\Debug\Administracion de controles.exe
+obj\Debug\Administracion de controles.xml
+obj\Debug\Administracion de controles.pdb

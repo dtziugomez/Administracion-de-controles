@@ -1,0 +1,9 @@
+F:\2\ej.progra-visual-deyvi\Administracion de controles\Administracion de controles\obj\Debug\Administracion de controles.exe
+F:\2\ej.progra-visual-deyvi\Administracion de controles\Administracion de controles\obj\Debug\Administracion de controles.xml
+F:\2\ej.progra-visual-deyvi\Administracion de controles\Administracion de controles\obj\Debug\Administracion de controles.pdb
+F:\2\ej.progra-visual-deyvi\Administracion de controles\Administracion de controles\bin\Debug\Administracion de controles.exe
+F:\2\ej.progra-visual-deyvi\Administracion de controles\Administracion de controles\bin\Debug\Administracion de controles.pdb
+F:\2\ej.progra-visual-deyvi\Administracion de controles\Administracion de controles\bin\Debug\Administracion de controles.xml
+F:\2\ej.progra-visual-deyvi\Administracion de controles\Administracion de controles\obj\Debug\Administracion_de_controles.Form1.resources
+F:\2\ej.progra-visual-deyvi\Administracion de controles\Administracion de controles\obj\Debug\Administracion_de_controles.Resources.resources
+F:\2\ej.progra-visual-deyvi\Administracion de controles\Administracion de controles\obj\Debug\Administracion de controles.vbproj.GenerateResource.Cache
